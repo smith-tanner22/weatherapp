@@ -4,7 +4,7 @@ This is a simple weather app that finds the weather for a certain location (in o
 
 Below is the video of the working program.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Weather App with Flutter](https://youtu.be/6YtUjg0dL78)
 
 # Development Environment
 
@@ -21,4 +21,4 @@ The enviornment that I used for this project is Flutter. Flutter is Google's UI 
 
 * I would like to add more support to the application with scrollable pages.
 * Make it look a lot cleaner and professional.
-* Get it to run on Android.
+* Get it to run on Android with no issues.
